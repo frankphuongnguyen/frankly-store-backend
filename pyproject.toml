@@ -6,7 +6,6 @@ authors = ["Frank <frank.phuongnguyen@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fastapi = "^0.79.0"
 
 [tool.poetry.dev-dependencies]
 yes = "^0.0.1"
